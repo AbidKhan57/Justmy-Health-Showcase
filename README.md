@@ -195,6 +195,4 @@ stripe listen --forward-to localhost:8000/stripe/webhook
 
 This is currently developed as a private client product mirrored to a public repository. If you'd like to contribute or report an issue, please open an issue describing the change clearly, including module/controller names where relevant.
 
-## 📄 License
 
-Add your chosen license here (e.g. MIT, proprietary/all-rights-reserved).
